@@ -39,17 +39,6 @@ Previously at **Dow Jones**, building features for millions of daily readers.
 
 ---
 
-## 📊 github stats
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dedickerremi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedickerremi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</p>
-
-> Most of my recent work lives in private repos (Reversed Digital, Dow Jones) — the stats above don't tell the full story, but the [CV](https://www.linkedin.com/in/remi-dedicker/) does.
-
----
-
 ## 🌍 a bit more about me
 
 - 🔐 Dabbling in cybersecurity on the side — CTFs, tooling, the rabbit hole
